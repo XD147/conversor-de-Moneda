@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Principal {
     static void main(String[] args) {
         String menu = """
-                ************************************************************
+                **************************************************
                 ...::: Bienvenido/a al conversor de monedas :::...
-                
+                __________________________________________________
                 1) Dólar =>>> Peso argentino
                 2) Peso argentino =>>> Dólar
                 3) Dólar =>>> Real brasileño
@@ -15,7 +15,7 @@ public class Principal {
                 5) Dólar =>>> Peso Colombiano
                 6) Peso colombiano =>>> Dólar
                 7) Salir
-                
+                __________________________________________________
                 Elija una opsión válida:
                 """;
 
